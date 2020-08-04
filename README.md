@@ -15,8 +15,9 @@
 ```javascript
 const description = {
   pronouns: "He",
-  code: [C#, Typescript, Jquery, JavaScript, Python, Android, Java],
-  tools: [Xamarin, ".Net Core", "Sigan R", Xaml, Blazor,Servicios Axure, Azure, SQl, MongDB, "Cosmos DB", Linq, React, Node, Docker],
+  code: [C#, Typescript, Jquery, JavaScript, Python, C++, Java],
+  tools: [Xamarin, ".Net Core", "Sigan R", Xaml, Blazor, Servicios Axure, Azure,
+  SQl, MongDB, "Cosmos DB", Linq, React, Node, Docker],
   architecture: ["microservices"]
 }
 ```
