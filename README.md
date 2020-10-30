@@ -1,5 +1,5 @@
-<h2>Alex Gabriel Adriano (Gabo) <img src="https://media.giphy.com/media/eIxfqYj49VsaTbFKJ4/giphy.gif" width="60"></h2> 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Alex Gabriel Adriano (Gabo) <img src="https://media.giphy.com/media/FiBzv5FRE85PO/giphy.gif" width="60"></h2> 
+<img align='right' src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="230">
 <p><em>Desarrollador de software en <a href="https://www.produbanco.com.ec/">Produbanco</a>
   
 </em></p>
