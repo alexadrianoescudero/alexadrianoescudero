@@ -7,7 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/EscuderoAdriano?label=@EscuderoAdriano)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-adriano-a34b3b163/)](https://www.linkedin.com/in/alex-adriano-a34b3b163/)
 ![GitHub followers](https://img.shields.io/github/followers/alex?label=alexadrianoescudero&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![](https://visitor-badge.glitch.me/badge?page_id=alexadrianoescudero)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Un poco mas sobre mi...   
