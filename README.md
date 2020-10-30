@@ -4,10 +4,13 @@
   
 </em></p>
 [![Twitter: thaianebraga](https://img.shields.io/badge/@alexadrianoescudero-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/EscuderoAdriano)](https://www.twitter.com/EscuderoAdriano)
+
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-adriano-a34b3b163)](https://www.linkedin.com/in/alex-adriano-a34b3b163)
+
 [![Facebook: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AdyGap)](https://www.facebook.com/AdyGap)
-![GitHub followers](https://img.shields.io/github/followers/alex?label=alexadrianoescudero&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=alexadrianoescudero)
+
+[![GitHub: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/alexadrianoescudero)](github.com/alexadrianoescudero)
+
 
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Un poco mas sobre mi...   
 
