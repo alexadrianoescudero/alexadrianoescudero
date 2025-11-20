@@ -11,9 +11,10 @@
 ```javascript
 const description = {
   pronouns: "He",
-  code: [C#, Typescript, Jquery, JavaScript, Python, C++, Java],
+  code: [C#, Java, Typescript, Jquery, JavaScript, Python, C++],
   tools: [Xamarin, .Net Core, Signal R, Xaml, Blazor, Azure,
-  SQl, MongDB, Cosmos DB, Linq, React, Node, Docker],
+  SQl, MongDB, Cosmos DB, Linq, React, Node, Docker, Kubernetes,
+  Angular],
   architecture: ["microservices"]
 }
 ```
