@@ -15,7 +15,7 @@ const description = {
   tools: [Xamarin, .Net Core, Signal R, Xaml, Blazor, Azure,
   SQl, MongDB, Cosmos DB, Linq, React, Node, Docker, Kubernetes,
   Angular],
-  architecture: ["microservices"]
+  architecture: ["Hexagonal, Microservices, Microfrontends"]
 }
 ```
 
