@@ -1,6 +1,6 @@
 <h2>Alex Gabriel Adriano (Gabo) <img src="https://media.giphy.com/media/FiBzv5FRE85PO/giphy.gif" width="60"></h2> 
 <img align='right' src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="230">
-<p><em>Desarrollador de software en <a href="https://www.produbanco.com.ec/">Produbanco</a>
+<p><em>Desarrollador de software
   
 </em></p>
 [![Twitter: thaianebraga](https://img.shields.io/badge/@alexadrianoescudero-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/EscuderoAdriano)](https://www.twitter.com/EscuderoAdriano)  [![Linkedin: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-adriano-a34b3b163)](https://www.linkedin.com/in/alex-adriano-a34b3b163)  [![Facebook: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AdyGap)](https://www.facebook.com/AdyGap)  [![GitHub: thaianebraga](https://img.shields.io/badge/-Alex_Adriano-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/alexadrianoescudero)](https://www.github.com/alexadrianoescudero)
